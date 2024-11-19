@@ -1,1 +1,1 @@
-# Juste des petits algorithme sympa à coder
+# Juste des petits algorithmes pas très utiles mais sympa à coder
