@@ -1,1 +1,1 @@
-# The most basic coding project but anyway, here is mine
+# Just a bunch of small algorithms to do basic stuff but that can be usefull
